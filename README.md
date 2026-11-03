@@ -1,1 +1,1 @@
-# Partical-1
+# Pratical-1
